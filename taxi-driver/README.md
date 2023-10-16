@@ -60,5 +60,8 @@ An observation is returned as an int() that encodes the corresponding state, cal
 
 - -10 executing “pickup” and “drop-off” actions illegally.
 
-## Demo
-<iframe width="560" height="315" src="../taxi-video.mp4" frameborder="0" allowfullscreen></iframe>
+## Graphic visualization
+<video width="70%" height="70%" controls>
+  <source src="../taxi-video.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeos.
+</video>

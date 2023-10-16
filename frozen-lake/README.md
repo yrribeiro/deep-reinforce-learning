@@ -24,8 +24,8 @@ The observation is a value representing the player’s current position as curre
 
 - Reach frozen: 0
 
-## Demo
-<video src='../frozen-video.mp4' width=780/>
-
-![](https://github.com/yrribeiro/deep-reinforcement-learning/assets/56032650/6b88755b-d457-419b-98bf-dfcd78ca0686)
-
+## Graphic visualization
+<video width="70%" height="70%" controls>
+  <source src="../frozen-video.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeos.
+</video>
