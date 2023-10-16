@@ -26,3 +26,6 @@ The observation is a value representing the player’s current position as curre
 
 ## Demo
 <video src='../frozen-video.mp4' width=780/>
+
+![](https://github.com/yrribeiro/deep-reinforcement-learning/assets/56032650/6b88755b-d457-419b-98bf-dfcd78ca0686)
+
