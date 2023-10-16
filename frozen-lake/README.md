@@ -29,3 +29,4 @@ The observation is a value representing the player’s current position as curre
   <source src="../frozen-video.mp4" type="video/mp4">
   Seu navegador não suporta a reprodução de vídeos.
 </video>
+https://huggingface.co/yanka9/q-FrozenLake-v1-4x4-noSlippery
