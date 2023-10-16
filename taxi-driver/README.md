@@ -65,3 +65,4 @@ An observation is returned as an int() that encodes the corresponding state, cal
   <source src="../taxi-video.mp4" type="video/mp4">
   Seu navegador não suporta a reprodução de vídeos.
 </video>
+https://huggingface.co/yanka9/q-Taxi-v3
